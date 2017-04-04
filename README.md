@@ -98,3 +98,53 @@ Como funcionan circuitoso electricos
     guardan 0 y 1 con o sin energia
   Procesadores
     los leguajes de programcion ayudan a procesar dichos 0 y 1 q recibe el procesador
+
+Procesadores y arquitectura de CPU
+  CPU
+    intel, amd
+    ghz
+    cores (No de CPUs cuandas instrucciones ne paralelos q se puden hacer)
+    silicio (grafeno)
+  BIOS
+    pequeño sistema operativo de arranque
+    da señal de inicio a CPU
+    detecta todas las cosas que estan conectadas
+  DISCO DURO
+    donde se encuentra el sistema operativo
+    todas las aplicaciones
+    conexion entre DISCO DURO y CPU
+      antes pasa por la RAM
+    mas lento q RAM
+    porq el disco tiene un cabeza y tiene que tratar de encontrar el archivo con la cabez de lectura mientras ruede
+    rpm mas rapido
+    fragmetacion para que no se mueva cabeza de lectura tanto
+  SSD
+    no tiene partes moviles
+    tienen un chip especial
+    tecnologia de memorias usb
+    chip flash
+    la misma que en las sd
+  RAM
+    memoria que tenemos mientras estamos con conrriente trabajo
+    memoria de muy alta velocidad
+    promedio 16gb
+    circuitos y transistores que lo tiene vivo en ese moment quimico EJ acido 1 no tan acido 0
+  MENRISTOR
+    piesa electronica que logra guardar la onda electrica q paso con ella y es igual de veloz q una ram
+    remplazar disco y ram por una sola pieza electronica
+  PERIFERICOS
+    todas las cosas externas con als que se interactua con el computador
+      pantalla
+      mouse
+      teclado
+      puertos
+  Drivers
+    son piesas de codigo que permiten entender
+    Pantalla
+      gpu no tan rapido como CPU
+      gpu realiza muchos procesos en paralelos
+      gpu solo se dedica para mostrar en pantalla
+      decodifican videso con un chip
+  TARJETA Sonido
+    viejo
+    drivers speakers
