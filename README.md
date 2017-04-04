@@ -88,3 +88,13 @@ CLASE 2
       sobraba un espacio y lo usaron para Emojis
     UNICODE
       los q se encargan q añadir a la tabla ascii
+
+Como funcionan circuitoso electricos
+  Servos
+    motores muy pequeños y muy precisos
+  Ram
+    guarda 0 y 1 mientras circuito tenga energia
+  disco duro
+    guardan 0 y 1 con o sin energia
+  Procesadores
+    los leguajes de programcion ayudan a procesar dichos 0 y 1 q recibe el procesador
