@@ -148,3 +148,30 @@ Procesadores y arquitectura de CPU
   TARJETA Sonido
     viejo
     drivers speakers
+
+SYSTEM ON A CHIP
+  internet de las cosas IoT
+  sistemas enteros en un chip
+  raskberry
+  CUP tiene memoria ram y pequeño disco duro y bios
+  chip para usb
+  chip para controlar todo lo electrico
+  pines
+    bus de datos con el se puede conectar el computador Ej pantalla
+
+  System on a chip
+    BIOS
+    ram
+    CPU
+    radio (todas las señales de radio)
+    gpu pantalla
+    perifericos
+  Bateria
+    pesada
+    controlador electrico(controla calor,conectado a electricidad )
+  Pantalla
+    no tienen todos
+  INputs (se conecta a system on a chip)
+    botones
+    acelerometros
+    brujulas
