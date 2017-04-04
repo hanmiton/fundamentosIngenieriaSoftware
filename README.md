@@ -49,3 +49,42 @@ Como funcionan las computadoras y los teléfonos y móviles
     - Servidor de notificaciones envia notificacion al dispositivo
     Telefono
       System on a Chip en vez de CPU
+
+CLASE 2
+  Que son bits y bytes
+  Electricidad funcionan en ondas
+  señales se guarda en discos ldp como saltos
+  Sonido
+    hacer vibrar una menbrana segun la onda de la Electricidad
+  Codigo MOrse
+    mensajes largos y cortos
+    no muy efectivo para grandes cantidades de informacion
+  Tonos Electricidad  
+    Alto 1
+    Bajo 0
+  Bit
+    1 o 0
+  IBM 1956
+    byte
+      de aceurdo a las patas del procesador
+      se definio de 8 espacios
+    bases numericas
+      binaria
+      decimal
+      hexadecimal
+    Assembler
+      bytes especiales de instruccines de procesador
+    TODO SON bytes  
+      192.168.7.255 4 numeros q son bytes
+      Imagen
+        son pixeles y cada pixel = byte numero representa un color
+        cada pixel es igual a 2 bytes
+      Emojis
+        Se agregaron a la tabla ascii
+    UTF-8
+      todo mundo usa la misma tabla ascii
+    UTF-16
+      nueva cantidad de bits q usan 2 bytes
+      sobraba un espacio y lo usaron para Emojis
+    UNICODE
+      los q se encargan q añadir a la tabla ascii
