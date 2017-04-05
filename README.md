@@ -245,6 +245,7 @@ Introduccion a las redes protocolos e internet
           iplist
         el asigna la ip con el dhcp
         recuerda pro caracteristicas de hardware
+        puetas de enlace a otras redes
       Mac
         viene quemado dentro del computador
         numero uniko q identifica a cada computador (TODA ENTERFACE DE RED)
@@ -253,14 +254,30 @@ Introduccion a las redes protocolos e internet
           wifi otra mac address
           radio otra mac address
       Modem
-        al cual se conecta el router
+        al cual se conecta el routergi
         modem Isp
           adsl
           telefono (antiguo)
           lte
           fibra optica (mas optimo)
-        
-    Isp
-    internet
-    Cloud
-    Twitter
+
+Puertos y protocolos de red
+  localhost
+    127.0.01
+    apunta siempre a mi computador
+  LAN
+    red de area local
+    192.168.0.20
+    ips q distribuye el router
+    subredes
+    255
+      se usa para broadcast es el ultimo numero
+    puertos
+      red virtual
+      el numero mas alto con dos bytes
+        65,535
+      http:80
+      bittorret
+        6881-6889
+      https:443
+      ssh:22
