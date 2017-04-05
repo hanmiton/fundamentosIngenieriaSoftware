@@ -225,4 +225,42 @@ Arquitectura de la computacion
   computadoras con trajetas fisicos huecos
   no existian estandares antes
   compus-laptop-celulares-raspberry-ardruino
-  
+
+Introduccion a las redes protocolos e internet
+  Red local
+    Pc
+    Laptop
+      Directamente con un calbe ethernet
+      Switch
+        Comparte la red con todos los conectados a los puertos
+        Algoritmo pra enrutar datos
+          pregunta a todos hasta encontrar a quien llega el mensaje
+        Es ineficiente
+        Celulares no tiene cable de red
+      Router wifi
+        se puede conectar al switch
+        son inteligentes tienen una tabla de enrutameinto
+          nombre de la red
+          password
+          iplist
+        el asigna la ip con el dhcp
+        recuerda pro caracteristicas de hardware
+      Mac
+        viene quemado dentro del computador
+        numero uniko q identifica a cada computador (TODA ENTERFACE DE RED)
+        Interfaz de red
+          ethernet una mac addres
+          wifi otra mac address
+          radio otra mac address
+      Modem
+        al cual se conecta el router
+        modem Isp
+          adsl
+          telefono (antiguo)
+          lte
+          fibra optica (mas optimo)
+        
+    Isp
+    internet
+    Cloud
+    Twitter
