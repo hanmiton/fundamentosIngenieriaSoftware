@@ -206,3 +206,9 @@ SYSTEM ON A CHIP
     Para lograr la efectiva comunicación entre la CPU y la RAM existe lo que se conoce como un bus de datos o bridge (puente). Un bus de datos en algunas ocaciones es un cable delgado y ancho. En otros casos esta conexión está establecida como circuito en la placa madre (mother board).
     Disco Duro:
     Para la conexión entre en disco duro y la CPU, el bus de datos recibió inicialmente el nombre ATA, que en una versión posterior se llamó SATA. Hay otro tipo de bus de datos para el disco duro mejor que SATA, que se llamó IDG.
+
+GPU CLASE 5
+  bus especial chip GPU (Graphic processor unit)
+  mayor cores y mejor ghz (procesa muchos datos al tiemp ) vram
+  tambien conectada a la ram
+  mas efectiva procesamiento paralelizado
